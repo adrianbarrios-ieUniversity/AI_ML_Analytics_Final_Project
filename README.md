@@ -3,10 +3,16 @@ This is the final project for the AI-Machine Learning &amp; Analytics course at 
 
 # Contributors
 Adrian Barrios Cortez
+
 Youssef Ben Yedder
+
 Daniel Cecim Ramos
+
 Cesar Garcia Rivera
+
 Levente Kazo
+
 Martin Kostadinov
+
 Rodrigo Pantin
 
