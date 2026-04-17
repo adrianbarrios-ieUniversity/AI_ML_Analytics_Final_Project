@@ -1,3 +1,5 @@
 https://github.com/andrewyurick/gunshot_recognition
 
 https://urbansounddataset.weebly.com/urbansound8k.html
+
+https://zenodo.org/records/7004819
